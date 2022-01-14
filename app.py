@@ -1,4 +1,6 @@
 #carregando as bibliotecas
+!pip install minio
+!pip install pycaret
 import pandas as pd
 import streamlit as st
 from minio import Minio
