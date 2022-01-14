@@ -1,8 +1,8 @@
 #carregando as bibliotecas
-pip install minio
-pip install pycaret
-#import pandas as pd
-#import streamlit as st
+#pip install minio
+#pip install pycaret
+import pandas as pd
+import streamlit as st
 #from minio import Minio
 import joblib
 import matplotlib.pyplot as plt
