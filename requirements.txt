@@ -1,2 +1,1 @@
-joblib
-pycaret
+joblib==1.0.1
