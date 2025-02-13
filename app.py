@@ -1,7 +1,7 @@
 #carregando as bibliotecas
 #pip install minio
 #pip install pycaret
-pip install numpy
+#pip install numpy
 import pandas as pd
 import streamlit as st
 #from minio import Minio
